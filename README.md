@@ -18,6 +18,5 @@ Master's of Applied Statistics Projects
 
 ### Monte Carlo Project
 - A Monte Carlo simulation project modeling
-- [Monte Carlo Project Report]()
-- [Github Repository]()
+- [Monte Carlo Project Report](/docs/Project_2.html)
 
