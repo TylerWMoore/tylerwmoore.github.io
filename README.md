@@ -1,7 +1,7 @@
 # tylerwmoore.github.io
 
 # Bio
-Stat Student at Iowa State University and former Mathematics teacher. Skilled in R and data visualization. Eager to use my skills to solve real-world problems in humanitarian efforts. 
+Stat Student at Iowa State University and former Middle School/Junior High Mathematics teacher. Skilled in R and data visualization. Eager to use my skills to solve real-world problems in humanitarian efforts. 
 - [Resume](/docs/Tyler_Moore_Resume.pdf)
 
 # Education
@@ -17,6 +17,6 @@ Master's of Applied Statistics Projects
 - [Github Repository](https://github.com/TylerWMoore/AIMS_Hydroshare_Data_Audit)
 
 ### Monte Carlo Project
-- A Monte Carlo simulation project modeling
+- A Monte Carlo simulation project modeling the impact of Sample size and variation of probability in Bayesian v Frequentist methodologies. This was evaluated using Mean Squared Error and Confidence Interval Coverage. 
 - [Monte Carlo Project Report](/docs/Project_2.html)
 
