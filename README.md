@@ -6,7 +6,7 @@ Master's of Applied Statistics Projects
 - Description
 - links
 
-### Project 2
+### Hydroshare Data Audit
 - Description
 - Links
 
