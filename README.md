@@ -11,9 +11,15 @@ Stat Student at Iowa State University and former Middle School/Junior High Mathe
 ## Projects
 Master's of Applied Statistics Projects
 
-### Hydroshare Data Audit
-- This is a project I worked on as part of my Experiential learning/Internship course while completing my master's Degree. I performed a data coverage audit identifying percentage of days with data present, and identifying gaps larger than 2 weeks in the data.
-- [Project Results](/docs/Hydroshare_Project.html)
+### AIMS Hydroshare Project
+- This is a project I worked on as part of my Experiential learning/Internship course while completing my master's Degree. The data come from intermittent streams (Non-perennial streams), and was collected from 10 sites located in 3 regions of the United States.
+
+- The first portion of the project involved performing a data coverage audit identifying percentage of days with data present, and identifying gaps larger than 2 weeks in the data.
+- [Data Audit Results](/docs/Hydroshare_Project.html)
+- [Github Repository](https://github.com/TylerWMoore/AIMS_Hydroshare_Data_Audit)
+
+- The second part of the project involved a wet vs. dry analysis to identify the percentage of days in the year the measuring sites recorded moisture in the stream (wet days).
+- [Wet v Dry Results](/docs/Hydroshare_AIMS_Wet_Dry_Summary.html)
 - [Github Repository](https://github.com/TylerWMoore/AIMS_Hydroshare_Data_Audit)
 
 ### Monte Carlo Project
