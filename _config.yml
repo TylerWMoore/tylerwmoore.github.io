@@ -1,5 +1,5 @@
 title: Tyler Moore
 logo: docs/Circle_Headshot.png
 #desciption: text below image or logo
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
