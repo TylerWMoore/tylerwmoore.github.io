@@ -22,6 +22,16 @@ Master's of Applied Statistics Projects
 - [Wet v Dry Results](/docs/Hydroshare_AIMS_Wet_Dry_Summary.html)
 - [Github Repository](https://github.com/TylerWMoore/AIMS_Hydroshare_Data_Audit)
 
+### Iowa Mortgage Loan Exploratory Analysis
+
+- Explored mortgage loan applications and approvals seeking to answer three main questions:
+  - Is there a relationship between the applicant’s sex and the action taken?
+  - Is the average loan amount different for insured and uninsured loans among disbursed loans?
+  - Is there a relationship between income and loan amount among approved loans?
+- [IA Mortgage Loan Executive Summary](<docs/STAT.5101.Team Project - Executive Summary.docx>)
+- [IA Mortgage Loan Exploratory Analysis](docs/STAT5101_Outliers_Final_Project.pdf).
+- [Github Repository](https://github.com/TylerWMoore/IA_Mortgage_Exploratory_Analysis).
+
 ### Monte Carlo Project
 - A Monte Carlo simulation project modeling the impact of Sample size and variation of probability in Bayesian v Frequentist methodologies. This was evaluated using Mean Squared Error and Confidence Interval Coverage. 
 - [Monte Carlo Project Report](/docs/Project_2.html)
